@@ -1,7 +1,9 @@
 # DSA-Conqueror
-
-`Hello all\n`
-My Name is Vishal Singh 
+-
+`Hello all`
+-
+My Name is Vishal Singh.
+#####
 Currently persuing Btech from VIT Pune.
 If you need any help  regarging the concept  the Concept till these repositories you can me freely I will try to Solve your Problem.
 Email:-vishal.singh20@vit.edu
