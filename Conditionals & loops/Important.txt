@@ -1,3 +1,3 @@
 <li>⚠️</li>
 <li>Hii</li>
-<li>The code that I haven't done in this Video I had done it in the first Video so refer that </li>
+<li>The code that I haven't done in this Video I had done it in the first Video so refer that <b>getting started folder</b></li>
